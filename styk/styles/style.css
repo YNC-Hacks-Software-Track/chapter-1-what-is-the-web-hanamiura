@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+    color:cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+/* how to put colors for only certain words */
+.list-item-red{  
+    color:crimson;
+}
+.list-item-blue{
+    color:darkblue;
+}
